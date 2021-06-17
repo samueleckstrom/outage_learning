@@ -1,1 +1,1 @@
-# outage_learning
+Copyright 2021 Samuel Eckstrom & NYU
